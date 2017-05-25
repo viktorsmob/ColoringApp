@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Color_Book_Pro/ThirdParty/DrawLines/MyLineDrawingView.m"
+            timestampString = "476749991.544707"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "471"
+            endingLineNumber = "471"
+            landmarkName = "-undoDrawing"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyLineDrawingView undoDrawing]"
+                  moduleName = "ColorBookPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jose/Desktop/alexanderJorgeFix/ios_coloring_Source_Code%2020160204/Color_Book_Pro/ThirdParty/DrawLines/MyLineDrawingView.m"
+                  timestampString = "476749028.605363"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "464"
+                  endingLineNumber = "464"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyLineDrawingView undoDrawing]"
+                  moduleName = "ColorBookPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jose/Desktop/alexanderJorgeFix/ios_coloring_Source_Code%2020160204/Color_Book_Pro/ThirdParty/DrawLines/MyLineDrawingView.m"
+                  timestampString = "476749028.605966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "464"
+                  endingLineNumber = "464"
+                  offsetFromSymbolStart = "438">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
